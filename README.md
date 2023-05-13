@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-INFO-2021/](https://ecored-sena.github.io/ECORED-BASE-INFO-2021/)
+[https://github.com/ECORED-SENA/512400_INFORMACION_PROGRAMA/settings/pages](https://github.com/ECORED-SENA/512400_INFORMACION_PROGRAMA/settings/pages)
 
 #

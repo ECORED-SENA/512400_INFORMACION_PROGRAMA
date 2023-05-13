@@ -2,6 +2,6 @@
 
 ## **Enlace GitHubPages**
 
-[https://github.com/ECORED-SENA/512400_INFORMACION_PROGRAMA/settings/pages](https://github.com/ECORED-SENA/512400_INFORMACION_PROGRAMA/settings/pages)
+[https://ecored-sena.github.io/512400_INFORMACION_PROGRAMA/](https://ecored-sena.github.io/512400_INFORMACION_PROGRAMA/)
 
 #

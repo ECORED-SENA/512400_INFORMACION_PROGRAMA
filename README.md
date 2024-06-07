@@ -1,7 +1,7 @@
-# **sena-base-info-2021 v2.0.0**
+# **ANIMACION_DIGITAL_INFO**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/512400_INFORMACION_PROGRAMA/](https://ecored-sena.github.io/512400_INFORMACION_PROGRAMA/)
+[https://ecored-sena.github.io/ANIMACION_DIGITAL_INFO/](https://ecored-sena.github.io/ANIMACION_DIGITAL_INFO/)
 
 #
